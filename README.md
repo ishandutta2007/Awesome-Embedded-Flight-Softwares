@@ -7,6 +7,8 @@
 
 A curated guide to leading **embedded flight software frameworks and systems** (like NASA's F Prime (F'), Core Flight System (cFS), PX4 Autopilot, Zephyr RTOS) and their **open-source/self-hosted equivalents**. 
 
+**Keywords:** Embedded systems, flight software, aerospace, open-source UAV, PX4, ArduPilot, NASA cFS, F Prime, RTOS, drones, satellites, CubeSat software.
+
 **Open-source solutions are emphasized** for space, drone, and embedded systems development, with a focus on reusability, safety, and community-driven innovation.
 
 ---
