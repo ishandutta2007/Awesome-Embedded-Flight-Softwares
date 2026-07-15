@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Embedded Flight Softwares Banner" width="100%">
 </p>
 
-# Awesome-Embedded-Flight-Softwares
-## Top Embedded Flight Softwares & Open-Source Alternatives
+# 🚀 Awesome-Embedded-Flight-Softwares
+## 🛸 Top Embedded Flight Softwares & Open-Source Alternatives
 
 A curated guide to leading **embedded flight software frameworks and systems** (like NASA's F Prime (F'), Core Flight System (cFS), PX4 Autopilot, Zephyr RTOS) and their **open-source/self-hosted equivalents**. 
 
@@ -11,11 +11,11 @@ A curated guide to leading **embedded flight software frameworks and systems** (
 
 ---
 
-## SaaS / Cloud-Hosted or Commercial Flight Software
+## ☁️ SaaS / Cloud-Hosted or Commercial Flight Software
 
 While most flight software is open or custom, commercial offerings and NASA frameworks provide robust, tested solutions for aerospace applications.
 
-### Leading Options
+### 🌟 Leading Options
 
 | Product | Description | Pricing | Free Tier Limit | Valuation / Budget |
 |---------|-------------|---------|-----------------|--------------------|
@@ -30,11 +30,11 @@ These frameworks emphasize reliability, modularity, and certification readiness 
 
 ---
 
-## Open-Source / Self-Hosted Alternatives
+## 🔓 Open-Source / Self-Hosted Alternatives
 
 The embedded flight software domain is heavily open-source, enabling customization for satellites, drones, rovers, and more.
 
-### Featured Projects
+### 🏆 Featured Projects
 
 - **[F Prime (F')](https://github.com/nasa/fprime)** — NASA's open-source, component-based flight software framework for small satellites and embedded systems.<grok-card data-id="e4d7f7" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
@@ -44,7 +44,7 @@ The embedded flight software domain is heavily open-source, enabling customizati
 
 - **[Zephyr RTOS](https://zephyrproject.org)** — Modern, secure RTOS with excellent embedded support and safety features.
 
-### Additional Open-Source Tools
+### 🧰 Additional Open-Source Tools
 - **[ArduPilot](https://ardupilot.org)** — Versatile open-source autopilot for copters, planes, rovers, and submarines.<grok-card data-id="a6ae7e" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 - **[Paparazzi UAV](https://wiki.paparazziuav.org)** — Open-source drone autopilot and ground station software.
 - **[LibrePilot](https://librepilot.org)** — Open-source flight control for multi-rotors and fixed-wing.
@@ -55,7 +55,7 @@ The embedded flight software domain is heavily open-source, enabling customizati
 
 ---
 
-## Comparison
+## ⚖️ Comparison
 
 | Aspect              | Commercial/NASA Frameworks            | Open-Source Ecosystem                      |
 |---------------------|---------------------------------------|--------------------------------------------|
@@ -67,7 +67,7 @@ The embedded flight software domain is heavily open-source, enabling customizati
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
 1. Identify your platform (drone, CubeSat, rover).
 2. Start with **PX4** or **ArduPilot** for UAVs, **F Prime** for space.
@@ -75,7 +75,7 @@ The embedded flight software domain is heavily open-source, enabling customizati
 4. Leverage OS abstractions for portability.
 5. Join communities (PX4 Discord, ArduPilot forums, NASA GitHub).
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
 
