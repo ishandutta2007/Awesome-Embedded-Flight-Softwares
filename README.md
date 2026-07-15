@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Embedded Flight Softwares Banner" width="100%">
+</p>
+
 # Awesome-Embedded-Flight-Softwares
 ## Top Embedded Flight Softwares & Open-Source Alternatives
 
