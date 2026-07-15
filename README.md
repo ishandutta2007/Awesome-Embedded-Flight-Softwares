@@ -12,10 +12,13 @@ A curated guide to leading **embedded flight software frameworks and systems** (
 While most flight software is open or custom, commercial offerings and NASA frameworks provide robust, tested solutions for aerospace applications.
 
 ### Leading Options
-- **[NASA F Prime (F')](https://nasa.github.io/fprime)** — Component-driven framework for rapid development of spaceflight and embedded software.
-- **[NASA Core Flight System (cFS)](https://cfs.gsfc.nasa.gov)** — Reusable, platform-independent framework for flight software.
-- **[PX4 Autopilot](https://px4.io)** — Open-source flight control software for drones and unmanned vehicles.
-- **[Zephyr RTOS](https://zephyrproject.org)** — Scalable real-time operating system for resource-constrained embedded devices.
+
+| Product | Description | Pricing | Free Tier Limit | Valuation / Budget |
+|---------|-------------|---------|-----------------|--------------------|
+| **[NASA F Prime (F')](https://nasa.github.io/fprime)** | Component-driven framework for rapid development of spaceflight and embedded software. | Free (Open Source) | No limit | ~$25 Billion (NASA) |
+| **[NASA Core Flight System (cFS)](https://cfs.gsfc.nasa.gov)** | Reusable, platform-independent framework for flight software. | Free (Open Source) | No limit | ~$25 Billion (NASA) |
+| **[PX4 Autopilot](https://px4.io)** | Open-source flight control software for drones and unmanned vehicles. | Free (Open Source) | No limit | ~$10 Million (Dronecode) |
+| **[Zephyr RTOS](https://zephyrproject.org)** | Scalable real-time operating system for resource-constrained embedded devices. | Free (Open Source) | No limit | ~$5 Million (LF Edge) |
 
 **Other notables**: ArduPilot for versatile vehicle control, and various RTOS like FreeRTOS.
 
